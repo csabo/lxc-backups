@@ -1,4 +1,4 @@
-#!/bin/bash
+#! /usr/bin/env bash
 # Description: simple script to cleanly and safely back up your containers either for migration or disaster recovery
 # Author: Chris Sabo (https://github.com/csabo)
 # Todo: Logging, and error handling
