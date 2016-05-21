@@ -4,7 +4,7 @@
 # Todo: Logging, and error handling
 
 # directory where gzipped backups should go
-backupDirectory="/mnt/backups/"
+backupDirectory="/mnt/backups"
 
 # directory containing your containers (defaults to /var/lib/lxc )
 containerDirectory="/var/lib/lxc"
